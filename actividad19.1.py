@@ -1,4 +1,5 @@
 
+print(hello)
 opcionMenu = 0
 
 while opcionMenu != 3:
